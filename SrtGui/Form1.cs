@@ -5,6 +5,8 @@ namespace SrtGui
         public Form1()
         {
             InitializeComponent();
+            txtSentence.Text = Properties.Settings.Default.sentence.ToString();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -19,18 +21,24 @@ namespace SrtGui
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string sentence;
             char[] alphabetSentence;
             double[] alphabetcounter;
             try
             {
-                alphabetSentence = Logic.MakeAlphabetSentence(this.txtSentence.Text);
-                alphabetcounter = Logic.MakeAlphabetCounter(this.txtSentence.Text, alphabetSentence);
+                sentence = txtSentence.Text;
+                //alphabetSentence = Logic.MakeAlphabetSentence(this.txtSentence.Text);
+                //alphabetcounter = Logic.MakeAlphabetCounter(this.txtSentence.Text, alphabetSentence);
             }
             catch(FormatException)
             {
                 MessageBox.Show("Введи сначала че то а потом уже нажимай");
                 return;
             }
+            alphabetSentence = Logic.MakeAlphabetSentence(sentence);
+            alphabetcounter = Logic.MakeAlphabetCounter(sentence, alphabetSentence);
+            Properties.Settings.Default.sentence = sentence;
+            Properties.Settings.Default.Save();
             string fullText = "";
             for (int i = 0; i < alphabetSentence.Length; i++)
             {

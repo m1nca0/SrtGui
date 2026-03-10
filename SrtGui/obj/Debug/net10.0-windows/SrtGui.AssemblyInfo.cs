@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SrtGui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+149738f95fb3cc171c48b4bc767de2833b5101d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+812de00c1b75986c79a46d6aad6c87f5e9c5dfe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SrtGui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SrtGui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
