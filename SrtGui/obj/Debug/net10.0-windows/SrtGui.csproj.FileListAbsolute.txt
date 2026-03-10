@@ -1,0 +1,17 @@
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\bin\Debug\net10.0-windows\SrtGui.exe
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\bin\Debug\net10.0-windows\SrtGui.deps.json
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\bin\Debug\net10.0-windows\SrtGui.runtimeconfig.json
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\bin\Debug\net10.0-windows\SrtGui.dll
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\bin\Debug\net10.0-windows\SrtGui.pdb
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.Form1.resources
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.csproj.GenerateResource.cache
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.AssemblyInfoInputs.cache
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.AssemblyInfo.cs
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.csproj.CoreCompileInputs.cache
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.sourcelink.json
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.dll
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\refint\SrtGui.dll
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.pdb
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\SrtGui.genruntimeconfig.cache
+C:\Users\vasilyevmi\Desktop\ВУЗ\tech\guimod\SrtGui\SrtGui\obj\Debug\net10.0-windows\ref\SrtGui.dll
